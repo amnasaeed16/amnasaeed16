@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Amna Saeed 👋
 
-<!--
-**amnasaeed16/amnasaeed16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Final Year BS Computer Science student with a strong interest in Backend Development, Artificial Intelligence, and Machine Learning. I enjoy building software solutions, learning new technologies, and solving real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- SQL
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- Backend Development
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Data Structures & Algorithms
+
+## Currently Learning
+- Django
+- REST APIs
+- Advanced Backend Development
+
+## Contact
+📧 Email: amnasaeed1231@gmail.com
+
+Thanks for visiting my profile!
